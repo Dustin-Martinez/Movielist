@@ -5,7 +5,7 @@
 ### 📌 Client-Commissioned Collaborative Project  
 
 **Developed by:** Kit Dustin Martinez & Antonio Garcia  
-
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
